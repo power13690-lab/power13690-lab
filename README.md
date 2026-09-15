@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://zero-cold-sunlight.power13690.chatgpt.site">
+  <a href="https://power13690-lab.github.io">
     <img src="./readme-banner.svg" width="100%" alt="minglu｜AI Product Manager — 关注 AI 产品、Agent、模型评测与可验证的产品实践。" />
   </a>
 </p>
